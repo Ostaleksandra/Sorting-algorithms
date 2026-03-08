@@ -13,16 +13,6 @@
 * **Merge Sort** — сортировка слиянием
 * **Quick Sort** — быстрая сортировка
 
-## Структура проекта
-
-
-Bubble sort.py      # реализация Bubble Sort
-Selection Sort.py   # реализация Selection Sort
-Insertion sort.py   # реализация Insertion Sort
-Merge sort.py       # реализация Merge Sort
-Quick sort.py       # реализация Quick Sort
-
-
 Каждый файл содержит отдельную реализацию алгоритма сортировки.
 
 ## Пример работы
