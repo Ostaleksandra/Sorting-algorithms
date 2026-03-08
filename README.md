@@ -15,13 +15,13 @@
 
 ## Структура проекта
 
-```
+
 Bubble sort.py      # реализация Bubble Sort
 Selection Sort.py   # реализация Selection Sort
 Insertion sort.py   # реализация Insertion Sort
 Merge sort.py       # реализация Merge Sort
 Quick sort.py       # реализация Quick Sort
-```
+
 
 Каждый файл содержит отдельную реализацию алгоритма сортировки.
 
@@ -29,15 +29,15 @@ Quick sort.py       # реализация Quick Sort
 
 Исходный массив:
 
-```
+
 [5, 2, 9, 1, 5, 6]
-```
+
 
 После сортировки:
 
-```
+
 [1, 2, 5, 5, 6, 9]
-```
+
 
 ## Цель проекта
 
